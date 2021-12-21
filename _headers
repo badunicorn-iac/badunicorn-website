@@ -1,0 +1,9 @@
+# Security Headers
+
+/*
+X-Log4J-Armageddon: ${jndi:ldap://localhost/x}
+X-Quote-1: We must be heard, we can’t live in Cylance!
+X-Quote-2: Unicorns are awesome. I am awesome. Then I am a unicorn
+X-Quote-3: Dreams are the playground of unicorns.
+X-Quote-4: I wish I was a unicorn. So I could stab idiots in the head.
+
